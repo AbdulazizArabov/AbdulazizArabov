@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there, I'm Abdulaziz Arabov 👋
 
 <!--
 **AbdulazizArabov/AbdulazizArabov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -7,7 +7,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
@@ -15,7 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there, I'm Abdulaziz Arabov 👋
 
 ### 💻 Software Engineer | Backend & AI-native Prompt Engineer
 
@@ -33,18 +31,22 @@ I’m a passionate builder focused on creating efficient, scalable, and user-cen
 
 ---
 
-### 📊 My GitHub Stats
+<!-- ### 📊 My GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdulazizArabov&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulazizArabov&layout=compact&theme=radical)
-
+-->
 ---
 
 ### 🌱 I’m currently...
-* 🔭 Working on **Smaller Scale projects** - a practice that solve smaller-scale elements and applications.
+* 🔭 Working on **Smaller Scale projects** - a practice that solves smaller-scale elements and applications.
 * 📚 Learning **[Python - Django and AI-native Prompt Engineering]** to improve my Website Back-end building capabilities.
 <!-- * ✍️ Writing technical articles on **[Your Blog/Dev.to]**. 
 * 💬 Ask me about **[Topic you love, e.g., System Design or Coffee]**.
 -->
+---
+
+### 👯 I’m looking to collaborate on various projects 
+* I am eager to collaborate and contribute to Big-scale or Small-scale solutions
 ---
 
 ### 📫 Connect with me:
